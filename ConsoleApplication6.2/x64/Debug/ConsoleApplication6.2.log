@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.2.cpp
+D:\study\Cpp projects\ConsoleApplication6.2\ConsoleApplication6.2\ConsoleApplication6.2.cpp(6,11): warning C4101: b: неиспользованная локальная переменная
+  ConsoleApplication6.2.vcxproj -> D:\study\Cpp projects\ConsoleApplication6.2\x64\Debug\ConsoleApplication6.2.exe
